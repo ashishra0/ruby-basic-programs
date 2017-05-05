@@ -1,6 +1,4 @@
-  #DCT0907
-  #puts "Enter the number: "
-  #number_find = gets.to_i
+#program to find the occurence of each integer in an array
 
 array = [-1, -1, 2, -1, -1, 3, 4, 5, 6, -1, 2, 3, 4, 4]
 unique = array.uniq
@@ -14,11 +12,3 @@ else
 end
 end
 
-#number = array.each {|n| n = n.uniq.count}
-#puts number
-
-#max_freq = number.uniq
-#puts max_freq
-#found = false
-
-#puts number
