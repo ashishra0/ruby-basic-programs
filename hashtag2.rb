@@ -1,3 +1,5 @@
+#Program to generate Hashtags for any user input sentence or a word
+
 def hash_tag_generator(sentence)
   words = sentence.split(" ")
   hash_tag ="#"
