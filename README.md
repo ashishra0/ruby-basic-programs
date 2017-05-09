@@ -1,2 +1,2 @@
-# ruby-basic-programs
-a simple ruby program
+ruby programs
+DCT academy
