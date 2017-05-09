@@ -1,2 +1,9 @@
-ruby programs
-DCT academy
+# DCT Academy Ruby Programs
+
+1. Cipher
+2. Full Name Splitter
+3. Hashtag Generator
+4. Occurrence of Numbers
+5. Restaurant
+6. Right Index
+7. Scramble
