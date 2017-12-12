@@ -11,3 +11,4 @@
 9. Telephone Format
 10. Vowel finder
 11. String Reverse
+12. Word frequency
