@@ -12,4 +12,4 @@
 10. Vowel finder
 11. String Reverse
 12. Word frequency
-13. Numbers
+13. Number
