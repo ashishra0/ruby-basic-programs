@@ -9,4 +9,5 @@
 7. Scramble
 8. Gender API
 9. Telephone Format
-10. Vowel finder.
+10. Vowel finder
+11. String Reverse
