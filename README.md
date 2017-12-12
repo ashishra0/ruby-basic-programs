@@ -1,4 +1,4 @@
-# DCT Academy Ruby Programs
+# Ruby Programs
 
 1. Cipher
 2. Full Name Splitter
