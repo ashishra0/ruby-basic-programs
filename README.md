@@ -8,3 +8,4 @@
 6. Right Index
 7. Scramble
 8. Gender API
+9. Telephone Format
