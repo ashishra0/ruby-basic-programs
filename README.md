@@ -13,3 +13,5 @@
 11. String Reverse
 12. Word frequency
 13. Number
+14. Square every digit
+15. Camel Case
